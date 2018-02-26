@@ -1,0 +1,37 @@
+new
+
+insert 3 1
+insert 4 1
+insert 5 1
+
+height 1
+size 3
+
+insert 2 1
+insert 1 1
+
+height 2
+size 5
+
+yeet
+insert 7 1
+insert 6 1
+
+height 2
+size 7
+
+delete
+
+new
+
+insert 10 1
+insert 6 1
+insert 7 1
+
+height 1
+size 3
+
+delete
+
+summary
+exit
